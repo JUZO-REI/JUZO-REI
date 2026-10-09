@@ -1,5 +1,33 @@
-## Hi there 👋
+## Hi there 👋I am SASUKE.I really wish someone would come and hang out with me!Coding together!!
 
+
+- 🔭 I'm currently working on **Python，Java，JavaScript，HTML**
+
+- 🌱 I'm currently learning **Java and Python **
+
+- 🤝 I'm looking for help with **learning system design**
+
+- 💬 Ask me about **Python，Java**
+
+- 📫 How to reach me **chiyumakuaidou@gmail.com**
+
+- ⚡ Fun fact **drawing，coding，singing**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/JUZO-REI" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="JUZO-REI" height="30" width="40" /></a>
+<a href="https://twitter.com/SASUKE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="SASUKE" height="30" width="40" /></a>
+<a href="https://youtube.com/JUZO-REI" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="JUZO-REI" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JUZO-REI&show_icons=true&locale=en&layout=compact" alt="JUZO-REI" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JUZO-REI&show_icons=true&locale=en" alt="JUZO-REI" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JUZO-REI&" alt="JUZO-REI" /></p>
 <!--
 **JUZO-REI/JUZO-REI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
